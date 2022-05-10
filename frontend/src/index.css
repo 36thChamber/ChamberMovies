@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+:root {
+  --color-primary: #7b0b0d;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+html, body {
+    background-color: #000000;
+}
+
+a, a:hover {
+  text-decoration: none;
+  color: unset;
+}
